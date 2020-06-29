@@ -5,7 +5,7 @@ Signpost
 
 
 
-![screenshot](signpost.png)
+![screenshot](signpost2.png)
 
 
 # Introduction
